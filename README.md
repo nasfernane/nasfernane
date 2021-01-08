@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasfernane&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasfernane&count_private=true&hide=contribs,issues&count_private=true)
 
 <!--
 **nasfernane/nasfernane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
