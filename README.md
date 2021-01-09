@@ -11,7 +11,7 @@ traineeship, deployed with the holy help of MongoDB and Mongoose.
 - 📫 How to reach me: https://www.linkedin.com/in/nasfernane/
 - ⚡ Fun fact: I like to watch the sky and ask dumb questions.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasfernane&count_private=true&hide=contribs,issues&count_private=true&show_icons=true&theme=onedark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasfernane&count_private=true&hide=prs,issues&count_private=true&show_icons=true&theme=onedark)
 
 
 <!--
