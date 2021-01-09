@@ -1,8 +1,8 @@
 ![](keepcoding.gif)
 
-## Hello 👋
+# **Hello* 👋
 
-### My name is Nassim Fernane, and I'm currently training to become a web developper at Simplon.
+## *My name is Nassim Fernane, and I'm currently training to become a web developper at Simplon.*
 
 - 🔭 I’m currently working on: <a href="https://github.com/nasfernane/chill-panda">Chill Panda</a>, a web application to handle quotes & bills.
 - 🌱 I’m currently learning: NodeJS & Express trough my 
