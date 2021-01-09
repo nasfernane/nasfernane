@@ -1,5 +1,7 @@
 ### Hello 👋
 
+My name is Nassim Fernane, and I'm currently training to become a web developper at Simplon.
+
 - 🔭 I’m currently working on: Chill Panda, a web application to handle quotes & bills.
 - 🌱 I’m currently learning: NodeJS & Express trough my 
 traineeship, deployed with the holy help of MongoDB and Mongoose.
