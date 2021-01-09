@@ -1,4 +1,4 @@
-![](playcode.gif)
+![](keepcoding.gif)
 
 ## Hello 👋
 
