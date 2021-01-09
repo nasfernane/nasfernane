@@ -10,7 +10,7 @@ traineeship, deployed with the holy help of MongoDB and Mongoose.
 - 👯 I’m looking to collaborate on: any interesting open source project.
 - 🤔 I’m looking for help with: understanding what the hell I'm doing.
 - 💬 Ask me about: my mushroom risotto recipe.
-- 📫 How to reach me: https://www.linkedin.com/in/nasfernane/
+- 📫 How to reach me: add nas.fernane #9382 @ Discord.
 - ⚡ Fun fact: I like to watch the sky and ask dumb questions.&nbsp;  
 
 
