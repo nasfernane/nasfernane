@@ -1,6 +1,6 @@
 ![](keepcoding.gif)
 
-# **Hello* 👋
+# **Hello** 👋
 
 ## *My name is Nassim Fernane, and I'm currently training to become a web developper at Simplon.*
 
