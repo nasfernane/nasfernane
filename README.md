@@ -15,7 +15,7 @@ traineeship, deployed with the holy help of MongoDB and Mongoose.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasfernane&count_private=true&hide=prs,issues&count_private=true&show_icons=true&theme=onedark)
 
-### Random questionnable joke about programming. Reload to get another
+#### Random questionnable joke about programming. Reload to get another.
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 
