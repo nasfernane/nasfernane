@@ -11,10 +11,12 @@ traineeship, deployed with the holy help of MongoDB and Mongoose.
 - 🤔 I’m looking for help with: understanding what the hell I'm doing.
 - 💬 Ask me about: my mushroom risotto recipe.
 - 📫 How to reach me: add nas.fernane #9382 on Discord. 
-- ⚡ Fun fact: I like to watch the sky and ask dumb questions.&nbsp;  
-
+- ⚡ Fun fact: I like to watch the sky and ask dumb questions.  
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasfernane&count_private=true&hide=prs,issues&count_private=true&show_icons=true&theme=onedark)
+
+### Random questionnable joke about programming. Reload to get another
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 
 
