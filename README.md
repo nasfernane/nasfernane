@@ -2,7 +2,7 @@
 
 # **Hello** 👋
 
-## My name is Nassim Fernane, and I'm currently training to become a web developper at Simplon. &nbsp;   
+## My name is Nassim Fernane, and I'm currently training to become a web developer at Simplon. &nbsp;   
 
 - 🔭 At the moment, I’m working on: <a href="https://github.com/nasfernane/chill-panda">Chill Panda</a>, a web application to handle quotes & bills.
 - 🌱 I’m currently learning: NodeJS & Express trough my 
