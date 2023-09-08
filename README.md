@@ -3,6 +3,14 @@
 -->
 
 # **Hello** 👋
+## My name is Nassim Fernane, and I'm currently working as a fullstack developer. &nbsp;
+
+- 🔭 At the moment, I am working at <a href="https://kwote.fr/">Kwote</a>, a start-up that develops a SaaS platform in the credit management and customer account management sector.
+- ⚡ Current stack: Node.js, Angular, MySQL, MongoDB
+- 🌱 I’m currently learning: GraphQL & Typescript
+- 👯 I’m looking to collaborate on: any interesting open source project.
+- 💬 Ask me about: my mushroom risotto recipe
+- 📫 Email me at nasfernane@gmail.com  
 <!--
 ## My name is Nassim Fernane, and I'm currently training to become a web developer at Simplon. &nbsp;   
 
@@ -20,9 +28,9 @@ traineeship, deployed with the holy help of MongoDB and Mongoose.
 #### Random questionnable joke about programming. Reload to get another one.  
 -->
 
-
+<!--
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
-
+-->
 
 
 
