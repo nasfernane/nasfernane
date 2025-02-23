@@ -5,35 +5,10 @@
 # **Hello** 👋
 ## My name is Nassim Fernane, and I'm currently working as a fullstack developer. &nbsp;
 
-- 🔭 At the moment, I am working at <a href="https://kwote.fr/">Kwote</a>, a start-up that develops a SaaS platform in the credit management and customer account management sector.
-- ⚡ Current stack: Node.js, Angular, MySQL, MongoDB
-- 🌱 I’m currently learning: GraphQL & Typescript
+- 🔭 At the moment, I am working at <a href="https://www.chargepoly.com/fr/">Chargepoly</a>, a company specializing in high-capacity battery charging for medium and heavy-duty vehicles.
+- ⚡ Current stack: Node.js, Svelte, Typescript, Postgres, MongoDB, redis, RabbitMQ
+- 🌱 I’m currently learning: Rust
 - 👯 I’m looking to collaborate on: any interesting open source project.
 - 💬 Ask me about: my mushroom risotto recipe
 - 📫 Email me at nasfernane@gmail.com  
-<!--
-## My name is Nassim Fernane, and I'm currently training to become a web developer at Simplon. &nbsp;   
 
-- 🔭 At the moment, I’m working on: <a href="https://github.com/nasfernane/chill-panda">Chill Panda</a>, a web application to handle quotes & bills.
-- 🌱 I’m currently learning: NodeJS & Express trough my 
-traineeship, deployed with the holy help of MongoDB and Mongoose.
-- 👯 I’m looking to collaborate on: any interesting open source project.
-- 🤔 I’m looking for help with: understanding what the hell I'm doing.
-- 💬 Ask me about: my mushroom risotto recipe.
-- 📫 How to reach me: add nas.fernane #9382 on Discord. 
-- ⚡ Fun fact: I like to watch the sky and ask dumb questions.  
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nasfernane&count_private=true&hide=prs,issues&count_private=true&show_icons=true&theme=onedark)
-
-#### Random questionnable joke about programming. Reload to get another one.  
--->
-
-<!--
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
--->
-
-
-
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasfernane&langs_count=8&theme=onedark)
--->
