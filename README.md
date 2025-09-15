@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Nassim FERNANE</h1>
 
-<h3 align="center">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</h3>
+<h3 align="center">Hello 👋 My name is Nassim and I am an enthusiastic developer, former chef, and proud human of two cats.</h3>
  &nbsp;&nbsp;
  
 -   ⛽ I am working as a fullstack developer at
