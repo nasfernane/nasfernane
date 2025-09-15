@@ -1,4 +1,4 @@
-<h1 align="center margin-bottom: 15px;">Hello 👋</h1>
+<h1 align="center" style="margin-bottom:15px;">Hello 👋</h1>
 
 <h3 align="center">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</h3>
 
