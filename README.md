@@ -1,4 +1,4 @@
-## <p style="align:center;">Hello 👋</p>
+<p style="align:center;">Hello 👋</p>
 
 ### <p style="align:center; font-style: italic; margin: 20px 0px">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</p>
 
