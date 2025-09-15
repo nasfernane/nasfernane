@@ -1,14 +1,12 @@
-<!--
-![](keepcoding.gif)
--->
+## <p style="text-align:center;">Hello 👋</p>
 
-# **Hello** 👋
-## My name is Nassim Fernane, and I'm currently working as a fullstack developer. &nbsp;
+### <p style="text-align:center; font-style: italic; margin: 20px 0px">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</p>
 
-- 🔭 At the moment, I am working at <a href="https://www.chargepoly.com/fr/">Chargepoly</a>, a company specializing in high-capacity battery charging for medium and heavy-duty vehicles.
-- ⚡ Current stack: Node.js, Svelte, Typescript, Postgres, MongoDB, redis, RabbitMQ
-- 🌱 I’m currently learning: Rust
-- 👯 I’m looking to collaborate on: any interesting open source project.
-- 💬 Ask me about: my mushroom risotto recipe
-- 📫 Email me at nasfernane@gmail.com  
+<hr style="margin-bottom: 20px"/>
 
+-   ⛽ I am working as a fullstack developer at
+    <a href="https://www.chargepoly.com/fr/">Chargepoly</a>, a company specializing in high-capacity
+    battery charging for medium and heavy-duty vehicles.
+-   👯 I’m looking to collaborate on: any interesting open source project.
+-   💬 Ask me about: my mushroom risotto recipe
+-   📫 Email me at nasfernane@gmail.com
