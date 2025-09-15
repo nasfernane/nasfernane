@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋</h1>
 
-<h2 align="center">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats. &nbsp;&nbsp;</h2>
-
+<h3 align="center">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</h3>
+ &nbsp;&nbsp;
+ 
 -   ⛽ I am working as a fullstack developer at
     <a href="https://www.chargepoly.com/fr/">Chargepoly</a>, a company specializing in high-capacity
     battery charging for medium and heavy-duty vehicles.
