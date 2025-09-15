@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center margin-bottom: 15px;">Hello 👋</h1>
 
-<center><h3 align="center">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</h3></center>
+<h3 align="center">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</h3>
 
 <hr style="height:1px; border-width:1px; margin-bottom: 20px color:gray;background-color:gray"/>
 
