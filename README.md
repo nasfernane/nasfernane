@@ -1,8 +1,6 @@
-<h1 align="center" style="margin-bottom:15px;">Hello 👋</h1>
+<h1 align="center" style="padding-bottom:20px;">Hello 👋</h1>
 
-<h3 align="center">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</h3>
-
-<hr style="height:1px; border-width:1px; margin-bottom: 20px color:gray;background-color:gray"/>
+<h2 align="center" style="padding-bottom:20px; margin-bottom:20px;">My name is Nassim Fernane and I am an enthusiastic developer, former chef, and proud human of two cats.</h2>
 
 -   ⛽ I am working as a fullstack developer at
     <a href="https://www.chargepoly.com/fr/">Chargepoly</a>, a company specializing in high-capacity
