@@ -1,7 +1,7 @@
 <h1 align="center">Nassim FERNANE</h1>
 
-&nbsp; _<h3 align="center">Hello 👋 My name is Nassim. I am an enthusiastic developer, former chef,
-and proud human of two cats.</h3>_ &nbsp;
+_<h3 align="center">Hello 👋 My name is Nassim. I am an enthusiastic developer, former chef,
+and proud human of two cats.</h3>_
 
 -   ⛽ I am working as a fullstack developer at
     <a href="https://www.chargepoly.com/fr/">Chargepoly</a>, a company specializing in high-capacity
